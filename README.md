@@ -24,6 +24,8 @@ potential users.</li>
 tracking to ensure accurate conversion
 rates.</li>
 </ul>  
+![downloads](https://github.com/indexsam/metro_funnelAnalysis/blob/master/downloads.PNG)
+
 
 
 
