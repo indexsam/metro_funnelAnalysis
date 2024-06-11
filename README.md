@@ -7,3 +7,19 @@ ultimately optimize revenue. Key metrics and trends have been examined to derive
 Link:
 https://public.tableau.com/app/profile/samuel.obadan/viz/metro_16973517986500/METROCARFUNNELANALYSIS
 
+Total Downloads: 23,608
+Right of funnel
+Conversion Rate & number of unique user
+downloads, sign ups, requests, transactions
+(completed rides) and reviews
+Left of funnel
+Drop-offs at each stage of the funnel
+ Recommendations for Downloads Stage:
+ Ensure the app's listing emphasizes key
+features and benefits.
+ Implement targeted ad campaigns to attract
+potential users.
+ Evaluate and address any discrepancies in
+tracking to ensure accurate conversion
+rates.
+
