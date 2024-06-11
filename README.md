@@ -72,6 +72,7 @@ transactions. Suffice to say therefore that clients pay for their rides.
 
 # User Observations
 ![user](https://github.com/indexsam/metro_funnelAnalysis/blob/master/user_observe.PNG)
+
 Relatively more users on the IOS platform than the
 android and web put together.
 In addition, we cannot assume an age range for the
