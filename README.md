@@ -15,11 +15,15 @@ downloads, sign ups, requests, transactions
 Left of funnel
 Drop-offs at each stage of the funnel
  Recommendations for Downloads Stage:
- Ensure the app's listing emphasizes key
-features and benefits.
- Implement targeted ad campaigns to attract
-potential users.
- Evaluate and address any discrepancies in
+<ul>
+ <li>Ensure the app's listing emphasizes key
+features and benefits.</li>
+<li>Implement targeted ad campaigns to attract
+potential users.</li>
+<li>Evaluate and address any discrepancies in
 tracking to ensure accurate conversion
-rates.
+rates.</li>
+</ul>  
+
+
 
